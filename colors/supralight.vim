@@ -28,7 +28,7 @@ let g:colors_name = "supralight"
 "hi Todo -- no settings --
 "hi LineNr -- no settings --
 "hi StatusLine -- no settings --
-hi Normal guifg=#1a1a1a guibg=#ababab guisp=#ababab gui=NONE ctermfg=233 ctermbg=15 cterm=NONE
+hi Normal guifg=#111111 guibg=#f2f2f2 guisp=#f2f2f2 gui=NONE ctermfg=233 ctermbg=15 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi Search -- no settings --
 "hi CTagsGlobalVariable -- no settings --
@@ -84,7 +84,7 @@ hi Label guifg=#FF0D00 guibg=NONE guisp=NONE gui=bold,underline ctermfg=196 cter
 hi PMenuSel guifg=#000000 guibg=#e6ecfa guisp=#e6ecfa gui=NONE ctermfg=NONE ctermbg=189 cterm=NONE
 hi Delimiter guifg=#DC5B00 guibg=NONE guisp=NONE gui=NONE ctermfg=166 ctermbg=NONE cterm=NONE
 hi Statement guifg=#000000 guibg=NONE guisp=NONE gui=bold,underline ctermfg=NONE ctermbg=NONE cterm=bold,underline
-hi Comment guifg=#616161 guibg=NONE guisp=NONE gui=italic ctermfg=241 ctermbg=NONE cterm=NONE
+hi Comment guifg=#dedede guibg=NONE guisp=NONE gui=italic ctermfg=241 ctermbg=NONE cterm=NONE
 hi Character guifg=#FF0D00 guibg=NONE guisp=NONE gui=NONE ctermfg=196 ctermbg=NONE cterm=NONE
 hi Number guifg=#FF0D00 guibg=NONE guisp=NONE gui=NONE ctermfg=196 ctermbg=NONE cterm=NONE
 hi Operator guifg=#FF0D00 guibg=NONE guisp=NONE gui=NONE ctermfg=196 ctermbg=NONE cterm=NONE
