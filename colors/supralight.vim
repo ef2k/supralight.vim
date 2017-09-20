@@ -28,7 +28,7 @@ let g:colors_name = "supralight"
 "hi Todo -- no settings --
 "hi LineNr -- no settings --
 "hi StatusLine -- no settings --
-hi Normal guifg=#111111 guibg=#f2f2f2 guisp=#f2f2f2 gui=NONE ctermfg=233 ctermbg=15 cterm=NONE
+hi Normal guifg=#111111 guibg=#f9f9f9 guisp=#f9f9f9 gui=NONE ctermfg=233 ctermbg=15 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi Search -- no settings --
 "hi CTagsGlobalVariable -- no settings --
